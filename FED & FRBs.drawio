@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-31T15:30:27.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="bFSiYozR2LVNpdsh4eOu" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-31T15:54:46.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="OW8odhBNOct9KXnmOBKh" version="12.1.9" type="github" pages="1">
   <diagram id="9pdyD2Oyel4eymqsF20k" name="Page-1">
     <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="65k3x3zuta5IXdkDI2n7-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=34;" parent="1" vertex="1">
           <mxGeometry y="30" width="790" height="530" as="geometry"/>
         </mxCell>
-        <mxCell id="65k3x3zuta5IXdkDI2n7-3" value="&lt;div&gt;Nome les membres du FRBoG&lt;/div&gt;&lt;div&gt;nomination validée par le sénat&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="65k3x3zuta5IXdkDI2n7-1" target="65k3x3zuta5IXdkDI2n7-2" edge="1">
+        <mxCell id="65k3x3zuta5IXdkDI2n7-3" value="&lt;div&gt;Nomme les membres du FRBoG&lt;/div&gt;&lt;div&gt;nomination validée par le sénat&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="65k3x3zuta5IXdkDI2n7-1" target="65k3x3zuta5IXdkDI2n7-2" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="65k3x3zuta5IXdkDI2n7-1" value="&lt;div&gt;PotUS&lt;/div&gt;&lt;div&gt;(President of the United States)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
