@@ -1,1 +1,59 @@
-<mxfile host="www.draw.io" modified="2019-10-31T12:09:17.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="em6VimH2rH30bj4VkWDw" version="12.1.9" type="github" pages="1"><diagram id="9pdyD2Oyel4eymqsF20k" name="Page-1">3Vptb+I4EP41kXofuso74WOB0lvpulstt7rtRycZIEeIWccU6K+/ceKQhBhIF3KtVkKVPX7NzONnxuNq1nC5fWBkNX+kIcSaqYdbzRpppmnYpqmJnx7ucknP7eeCGYtC2akUTKJXkEJdStdRCGmtI6c05tGqLgxokkDAazLCGN3Uu01pXF91RWbQEEwCEjel/0Qhn+dSz+yV8j8hms2LlY3i+5ak6Cy/JJ2TkG4qIutes4aMUp6XltshxEJ5hV7yceMjrfuNMUh4mwGus7C21uuaE+fzj3Ax+mwmvVvTy6d5IfFafrHcLd8VKmB0nYQgZtE1a7CZRxwmKxKI1g0aHWVzvoyxZmBxShMurWjaWCdxNEuwEuAugaFArgeMw/bolxh7/SCwgC6Bsx12KQb0pEolpmxP1jelhZxC7fOKdewCVUSiYrafu1QcFqTu3qBHo9edHi37QrVJNVlNLfX6Ki1ZXWnJUijJjXHZQRi9YHEmil9wMewU46nHUwRLn2WlcI1/xt8G9KEYg1uoDFPMlNBllBAe0SRfFPc2tLS7PuRqyxYRJsql2PPYzAeGhBApQlYp43M6owmJ70vpoG7qss9flK6kgf8FznfSwmTNad38sI34DzH8kyNrz5WW0VbOnFV2RSVBG1UGiepzta0cltWKcfn3iY86DSzUAV2zAE4dA8nQhM2An6IdNVAZxGiul/o+rn9W26DwifLvk9ZIu3lCkKKjQn2ZOp0KFcwFtL4neMhDLEw44ZD+UQz12eFkZyD3Nu6I4nhIY8qysVZIwJsGKE85owuotLiBB/70OqRsuwek3GQbU1ewjdsZJZsNOyO1ZNzSqzLL7324UzyL/E4EQihIaAKFbBwJdV6bAMyWBOC8JwE0gaE40jVXc/68NilhDCEwIjbzDVJgLwJ4A0pYWFDEA8UDl1BW0sLZSWvA7Z44HPBCW0Ucnulbrnsd4rDsOnEY/SZz2LaCOfpdMYfdEh9HbdASDCRZtHcJhnmCtC6xsq+DBa7Kyjp4uuddKWY/b2TDURi5Q//QysyFy7DPnzz86V+exzASB9zHew/hNGKwzKKCd/QyFR9TepwzXsao+ZhP4r572s9ktSdgERpH3POazieISZpGwYH/yRcKDzwUSrrxT05L/2S/p39yWvHP18fhr/DP1xWI69AjYQsQ0eoQL0mcAxxxQp3RztQLIFBGpb7n2E5p96s6F8t9b+diuKetW9Gv+3MtkkNZLuA2zc75HXaw7NU2N7Ns30NC4WQmu5TDsgVQLlj3Znw/qvmxC+bqIqypI0xSzDUTLGofp7gB7RNQ81rOsCusFTmws5EM9rnNwtP2yZWbS2PZfsexbGlf5LAG/YCB0W1PRT99t2eRK8W2hleHhKOgH0d1K+51BolW2Y/MV2MvcVRDjGECjqZtbdkLbk0Jhlt5Oi6tJOlE2SfJz/VxqDRmOswfpjRLzmTTRFB+TcepmNMonE6nptoJhq7vOh2h0FUwk+Gqgm+7Mxi2Cr4LGA5+HxgmUGJxRdIPiEhwjyCy1/f1a4VlzsdDZKuou0DksFNEquGn7d8/urT//xKW71/nPpD9my941RRPu7DWPBfWtgy1j87DYBaJLEDOG4tUqz03vP0CcIAktCivw0W8a7wSP+sgjL+iUcIz3TsDzRmhRGQeUgkoTfHgK4ASBSS+kw1c5C8GKQI0SmZ/Z8mMW1trvhxfAWZm36lH5Iqs0z7UqsLsF15AsVq+5Wdtlf+IsO7/Aw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-31T14:33:06.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="Fjhptl2iJx8VotmHM7dT" version="12.1.9" type="github" pages="1">
+  <diagram id="9pdyD2Oyel4eymqsF20k" name="Page-1">
+    <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="65k3x3zuta5IXdkDI2n7-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" parent="1" vertex="1">
+          <mxGeometry x="160" y="640" width="520" height="410" as="geometry"/>
+        </mxCell>
+        <mxCell id="65k3x3zuta5IXdkDI2n7-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=34;" parent="1" vertex="1">
+          <mxGeometry y="30" width="790" height="530" as="geometry"/>
+        </mxCell>
+        <mxCell id="65k3x3zuta5IXdkDI2n7-3" value="&lt;div&gt;Nome les membres du FRBoG&lt;/div&gt;&lt;div&gt;nomination validée par le sénat&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="65k3x3zuta5IXdkDI2n7-1" target="65k3x3zuta5IXdkDI2n7-2" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="65k3x3zuta5IXdkDI2n7-1" value="&lt;div&gt;PotUS&lt;/div&gt;&lt;div&gt;(President of the United States)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="460" y="40" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="65k3x3zuta5IXdkDI2n7-12" value="Nomme 7 membres" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="65k3x3zuta5IXdkDI2n7-2" target="65k3x3zuta5IXdkDI2n7-5" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="65k3x3zuta5IXdkDI2n7-2" value="&lt;div&gt;FRBoG&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Federal Reserve Board of Governors)&lt;/div&gt;&lt;div&gt;7 membres&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Supervise les banques américaines (juridiction internationale) et étrangères (sous juridiction locale) et assure la sécurité,&amp;nbsp; la&amp;nbsp; solvabilité&amp;nbsp; et&amp;nbsp; la&amp;nbsp; légalité&amp;nbsp; des&amp;nbsp; activités bancaires.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="340" y="190" width="440" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="65k3x3zuta5IXdkDI2n7-4" value="&lt;div&gt;FRBs&lt;/div&gt;&lt;div&gt;(Federal Reserve Banks)&lt;br&gt;&lt;/div&gt;12 membres" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="10" y="190" width="150" height="360" as="geometry"/>
+        </mxCell>
+        <mxCell id="65k3x3zuta5IXdkDI2n7-14" value="&lt;div&gt;Nomme 4 de ses membres&lt;/div&gt;+ NYFeD obligatoirement" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.827;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="65k3x3zuta5IXdkDI2n7-5" target="65k3x3zuta5IXdkDI2n7-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="475"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="65k3x3zuta5IXdkDI2n7-5" value="&lt;div&gt;FOMC&lt;/div&gt;&lt;div&gt;(Federal Open Market Comittee)&lt;/div&gt;&lt;div&gt;12 membres&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Met en place la politique monétaire des USA en utilisant un certain nombre d&#39;instruments comme le taux de rémunération des dépôts, le taux de refinancement, le taux d&#39;escompte et le taux des fonds fédéraux.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="340" y="400" width="440" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="65k3x3zuta5IXdkDI2n7-16" value="&lt;div style=&quot;font-size: 34px;&quot;&gt;Federal Reserve System&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;(FED)&lt;br style=&quot;font-size: 34px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=34;" parent="1" vertex="1">
+          <mxGeometry x="10" y="40" width="410" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="65k3x3zuta5IXdkDI2n7-20" value="&lt;div&gt;FRB - BoG&lt;/div&gt;&lt;div&gt;(Board of Governors)&lt;/div&gt;&lt;div&gt;9 membres&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="170" y="720" width="500" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="65k3x3zuta5IXdkDI2n7-21" value="&lt;div&gt;class A directors&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;nommés par les banques commerciales,&lt;br&gt;&lt;/div&gt;&lt;div&gt;les membres sont banquiers&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="170" y="800" width="160" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="65k3x3zuta5IXdkDI2n7-24" value="&lt;div&gt;class B directors&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;nommés par les banques commerciales&lt;br&gt;&lt;/div&gt;&lt;div&gt;les membres ne sont pas banquiers&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="340" y="800" width="160" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="65k3x3zuta5IXdkDI2n7-25" value="&lt;div&gt;class C directors&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;nommés par le FRBoG" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="510" y="800" width="160" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="65k3x3zuta5IXdkDI2n7-27" value="FRBs&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;regional banks of the Federal Reserve System&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="285" y="650" width="270" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
