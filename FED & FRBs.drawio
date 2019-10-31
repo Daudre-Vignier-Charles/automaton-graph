@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-31T14:33:06.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="Fjhptl2iJx8VotmHM7dT" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-31T15:30:27.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="bFSiYozR2LVNpdsh4eOu" version="12.1.9" type="github" pages="1">
   <diagram id="9pdyD2Oyel4eymqsF20k" name="Page-1">
     <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="65k3x3zuta5IXdkDI2n7-12" value="Nomme 7 membres" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="65k3x3zuta5IXdkDI2n7-2" target="65k3x3zuta5IXdkDI2n7-5" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="65k3x3zuta5IXdkDI2n7-2" value="&lt;div&gt;FRBoG&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Federal Reserve Board of Governors)&lt;/div&gt;&lt;div&gt;7 membres&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Supervise les banques américaines (juridiction internationale) et étrangères (sous juridiction locale) et assure la sécurité,&amp;nbsp; la&amp;nbsp; solvabilité&amp;nbsp; et&amp;nbsp; la&amp;nbsp; légalité&amp;nbsp; des&amp;nbsp; activités bancaires.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="65k3x3zuta5IXdkDI2n7-2" value="&lt;div&gt;FRBoG&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Federal Reserve Board of Governors)&lt;/div&gt;&lt;div&gt;7 membres&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Supervise les banques américaines (juridiction internationale) et étrangères (sous juridiction locale) et assure la sécurité, la solvabilité et la légalité des activités bancaires, régit quelques instruments qui ne relèvent pas du FOMC.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="340" y="190" width="440" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="65k3x3zuta5IXdkDI2n7-4" value="&lt;div&gt;FRBs&lt;/div&gt;&lt;div&gt;(Federal Reserve Banks)&lt;br&gt;&lt;/div&gt;12 membres" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
