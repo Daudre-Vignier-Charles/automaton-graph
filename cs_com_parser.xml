@@ -1,4 +1,4 @@
-<mxfile modified="2023-10-01T17:19:38.510Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="3NT0847s1_EMKZG1Gipq" version="21.8.0" type="github">
+<mxfile modified="2023-10-01T17:23:09.818Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="C6RSwGjIrn0ndUEI5dli" version="21.8.0" type="github">
   <diagram id="LTXzDD1rrC-2MbTY4EDK" name="Page-1">
     <mxGraphModel dx="1434" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -450,8 +450,11 @@
         <mxCell id="Ptjknzg4gF6Ks2iuS-xr-30" value="Pour tout q appartenant à Q il existe (Any ou et seulement ou Epsilon) ou ( Delta de s et Any ou et seulement ou Epsilon)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="25" y="1120" width="670" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ptjknzg4gF6Ks2iuS-xr-32" value="B=Blank&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;N=Newline&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;S=Slash&lt;br&gt;&lt;/span&gt;J=Star&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;Δ=Any symbol other than defined&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="750" width="365" height="120" as="geometry" />
+        <mxCell id="Ptjknzg4gF6Ks2iuS-xr-32" value="B=Blank&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;N=Newline&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;S=Slash&lt;br&gt;&lt;/span&gt;J=Star&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;Δ=Any symbol other than defined&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="65" y="750" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptjknzg4gF6Ks2iuS-xr-33" value="Delete -&amp;gt; Forgot symbol&lt;br&gt;Write -&amp;gt; Write symbol to the stack&lt;br&gt;ReadWrite -&amp;gt; Push symbol into the buffer and apply next action (delete or write)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="285" y="750" width="235" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
